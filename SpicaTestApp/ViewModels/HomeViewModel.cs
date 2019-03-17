@@ -10,6 +10,7 @@ namespace SpicaTestApp.ViewModels
 {
     public class HomeViewModel : MvxViewModel
     {
+
         private readonly IToDoService _toDoService;
 
         public HomeViewModel(IToDoService toDoService)
