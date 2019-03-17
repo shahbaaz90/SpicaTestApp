@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicaTestApp.Android", "SpicaTestApp.Android\SpicaTestApp.Android.csproj", "{16423BBF-DFAE-4EB8-B1D5-B21CFC12F32F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicaTestApp", "SpicaTestApp\SpicaTestApp.csproj", "{F114A97C-BDF8-43BC-A3B5-4B6447913784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16423BBF-DFAE-4EB8-B1D5-B21CFC12F32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16423BBF-DFAE-4EB8-B1D5-B21CFC12F32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16423BBF-DFAE-4EB8-B1D5-B21CFC12F32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16423BBF-DFAE-4EB8-B1D5-B21CFC12F32F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F114A97C-BDF8-43BC-A3B5-4B6447913784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F114A97C-BDF8-43BC-A3B5-4B6447913784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F114A97C-BDF8-43BC-A3B5-4B6447913784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F114A97C-BDF8-43BC-A3B5-4B6447913784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
